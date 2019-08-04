@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html><li><a href="01.html">Página principal</a>  
 
   <head>
 <li><a href="01.html">Página principal</a>  
